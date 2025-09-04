@@ -1,0 +1,461 @@
+{
+  "materias": [
+    {
+      "id": 1,
+      "anio": "1ro",
+      "nombre": "Pedagogía",
+      "regimen": "Presencial",
+      "formato": "Materia",
+      "prerrequisitos": {
+        "requiresCursada": [],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 2,
+      "anio": "1ro",
+      "nombre": "Problemáticas Socio Institucionales",
+      "regimen": "Presencial",
+      "formato": "Materia",
+      "prerrequisitos": {
+        "requiresCursada": [],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 3,
+      "anio": "1ro",
+      "nombre": "Didáctica General",
+      "regimen": "Presencial",
+      "formato": "Materia",
+      "prerrequisitos": {
+        "requiresCursada": [],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 4,
+      "anio": "1ro",
+      "nombre": "Linguistica y gramática I",
+      "regimen": "Presencial",
+      "formato": "Materia",
+      "prerrequisitos": {
+        "requiresCursada": [],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 5,
+      "anio": "1ro",
+      "nombre": "Historia social y cultural de la literatura I",
+      "regimen": "Presencial",
+      "formato": "Materia",
+      "prerrequisitos": {
+        "requiresCursada": [],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 6,
+      "anio": "1ro",
+      "nombre": "Teoría literaria I",
+      "regimen": "Presencial",
+      "formato": "Materia",
+      "prerrequisitos": {
+        "requiresCursada": [],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 7,
+      "anio": "1ro",
+      "nombre": "Lectura y escritura",
+      "regimen": "Presencial",
+      "formato": "Taller",
+      "prerrequisitos": {
+        "requiresCursada": [],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 8,
+      "anio": "1ro",
+      "nombre": "Historia de la lengua española",
+      "regimen": "Presencial",
+      "formato": "Materia",
+      "prerrequisitos": {
+        "requiresCursada": [],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 9,
+      "anio": "1ro",
+      "nombre": "CFPP 1: el trabajo docente: complejidades y entramados",
+      "regimen": "Presencial",
+      "formato": "Taller",
+      "prerrequisitos": {
+        "requiresCursada": [
+          1,
+          3
+        ],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 10,
+      "anio": "2do",
+      "nombre": "Historia y política de la educación argentina",
+      "regimen": "Presencial/Semipresencial/Virtual",
+      "formato": "Materia",
+      "prerrequisitos": {
+        "requiresCursada": [],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 11,
+      "anio": "2do",
+      "nombre": "Enseñar con tecnologías",
+      "regimen": "Presencial/Semipresencial/Virtual",
+      "formato": "Materia",
+      "prerrequisitos": {
+        "requiresCursada": [
+          1,
+          3
+        ],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 12,
+      "anio": "2do",
+      "nombre": "Perpectivas acerca de los sujetos de la educación",
+      "regimen": "Presencial",
+      "formato": "Materia",
+      "prerrequisitos": {
+        "requiresCursada": [],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 13,
+      "anio": "2do",
+      "nombre": "Linguistica y gramática II",
+      "regimen": "Presencial",
+      "formato": "Materia",
+      "prerrequisitos": {
+        "requiresCursada": [],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 14,
+      "anio": "2do",
+      "nombre": "Historia social y cultural de la literatura II",
+      "regimen": "Presencial",
+      "formato": "Materia",
+      "prerrequisitos": {
+        "requiresCursada": [
+          5
+        ],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 15,
+      "anio": "2do",
+      "nombre": "Teoria literaria II",
+      "regimen": "Presencial",
+      "formato": "Materia",
+      "prerrequisitos": {
+        "requiresCursada": [
+          6
+        ],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 16,
+      "anio": "2do",
+      "nombre": "Semiótica",
+      "regimen": "Presencial/Semipresencial/Virtual",
+      "formato": "Taller",
+      "prerrequisitos": {
+        "requiresCursada": [],
+        "requiresAcreditar": [
+          4
+        ]
+      }
+    },
+    {
+      "id": 17,
+      "anio": "2do",
+      "nombre": "Taller de alfabetización inicial en lectura, escritura y literatura infanto-juvenil",
+      "regimen": "Presencial, semipresencial y virtual",
+      "formato": "Seminario",
+      "prerrequisitos": {
+        "requiresCursada": [],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 18,
+      "anio": "2do",
+      "nombre": "Didáctica de la lengua y la literatura I: didáctica y curriculum",
+      "regimen": "Presencial",
+      "formato": "Materia",
+      "prerrequisitos": {
+        "requiresCursada": [
+          3
+        ],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 19,
+      "anio": "2do",
+      "nombre": "CFPP 2: la construcción del trabajo docente en la E.S",
+      "regimen": "Presencial, semipresencial y virtual",
+      "formato": "Taller",
+      "prerrequisitos": {
+        "requiresCursada": [
+          9
+        ],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 20,
+      "anio": "3ro",
+      "nombre": "Educación para la diversidad",
+      "regimen": "Presencial/semipresencial/virtual",
+      "formato": "Materia",
+      "prerrequisitos": {
+        "requiresCursada": [1,3,12],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 21,
+      "anio": "3ro",
+      "nombre": "La evaluación de los aprendizajes",
+      "regimen": "Presencial/semipresencial/virtual",
+      "formato": "Materia",
+      "prerrequisitos": {
+        "requiresCursada": [1,3,12],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 22,
+      "anio": "3ro",
+      "nombre": "Filosofía y educación",
+      "regimen": "Presencial/semipresencial/virtual",
+      "formato": "Materia",
+      "prerrequisitos": {
+        "requiresCursada": [
+          1,
+          3
+        ],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 23,
+      "anio": "3ro",
+      "nombre": "Optativa | nivel 1 de inglés/oratoria y retórica docente",
+      "regimen": "Presencial, semipresencial y virtual",
+      "formato": "Taller",
+      "prerrequisitos": {
+        "requiresCursada": [],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 24,
+      "anio": "3ro",
+      "nombre": "Linguistica y gramática III",
+      "regimen": "Presencial",
+      "formato": "Materia",
+      "prerrequisitos": {
+        "requiresCursada": [
+          13
+        ],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 25,
+      "anio": "3ro",
+      "nombre": "Literatura española y literatura latinoamericana",
+      "regimen": "Presencial",
+      "formato": "Materia",
+      "prerrequisitos": {
+        "requiresCursada": [
+          14
+        ],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 26,
+      "anio": "3ro",
+      "nombre": "Psicolinguistica",
+      "regimen": "Presencial",
+      "formato": "Materia",
+      "prerrequisitos": {
+        "requiresCursada": [13],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 27,
+      "anio": "3ro",
+      "nombre": "Teoría literaria III",
+      "regimen": "Presencial",
+      "formato": "Materia",
+      "prerrequisitos": {
+        "requiresCursada": [
+          15
+        ],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 28,
+      "anio": "3ro",
+      "nombre": "Didática de la lengua y la literatura II: enseñanza con TIC",
+      "regimen": "Presencial",
+      "formato": "Materia",
+      "prerrequisitos": {
+        "requiresCursada": [
+          18
+        ],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 29,
+      "anio": "3ro",
+      "nombre": "CFPP 3: la construcción de la tarea docente específica en la enseñanza del nivel",
+      "regimen": "Presencial",
+      "formato": "Taller",
+      "prerrequisitos": {
+        "requiresCursada": [19],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 30,
+      "anio": "4to",
+      "nombre": "Análisis e intervención en situaciones de convivencia escolar",
+      "regimen": "Presencial/semipresencial/virtual",
+      "formato": "Materia",
+      "prerrequisitos": {
+        "requiresCursada": [
+          20
+        ],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 31,
+      "anio": "4to",
+      "nombre": "Unidad Curricular Optativa | nivel 2 de Inglés/tutorías y orientación E",
+      "regimen": "Presencial/semipresencial/virtual",
+      "formato": "Taller",
+      "prerrequisitos": {
+        "requiresCursada": [
+          23
+        ],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 32,
+      "anio": "4to",
+      "nombre": "Linguistica y gramática IV",
+      "regimen": "Presencial",
+      "formato": "Materia",
+      "prerrequisitos": {
+        "requiresCursada": [
+          24
+        ],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 33,
+      "anio": "4to",
+      "nombre": "Literatura argentina",
+      "regimen": "Presencial",
+      "formato": "Materia",
+      "prerrequisitos": {
+        "requiresCursada": [
+          25
+        ],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 34,
+      "anio": "4to",
+      "nombre": "Sociolinguistica",
+      "regimen": "Presencial",
+      "formato": "Materia",
+      "prerrequisitos": {
+        "requiresCursada": [
+          24,
+          26
+        ],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 35,
+      "anio": "4to",
+      "nombre": "Seminarios: literatura y otros lenguajes artísticos",
+      "regimen": "Presencial/semipresencial/virtual",
+      "formato": "Seminario",
+      "prerrequisitos": {
+        "requiresCursada": [],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 36,
+      "anio": "4to",
+      "nombre": "Didáctica de la lengua y la literatura III: investigación de los problemas de la enseñanza",
+      "regimen": "Presencial",
+      "formato": "Materia",
+      "prerrequisitos": {
+        "requiresCursada": [
+          28 ],
+        "requiresAcreditar": []
+      }
+    },
+    {
+      "id": 37,
+      "anio": "4to",
+      "nombre": "Espacio de Opción Institucional",
+      "regimen": "Presencial/semipresencial/virtual",
+      "formato": "Materia/Taller",
+      "prerrequisitos": {
+        "requiresCursada": [],
+        "requiresAcreditar": []
+      }
+    },
+     {
+      "id": 38,
+      "anio": "4to",
+      "nombre": "CFPP 4: la reflexión sobre la tarea docente",
+      "regimen": "Presencial",
+      "formato": "Taller",
+      "prerrequisitos": {
+        "requiresCursada": [29],
+        "requiresAcreditar": []
+      }
+     }
+  ]
+}
